@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'theclouddude'
 email: 'theclouddudeinfo@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://chimpstatic.com/mcjs-connected/js/users/964623620d6a167a844240f20/4852ef9933328ba4575f4b5a9.js'
 
 include: ["_pages"]
 permalink: /:title/
