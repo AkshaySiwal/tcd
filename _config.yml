@@ -21,9 +21,9 @@ plugins:
 authors:
     theclouddude:
       name:           The Cloud Dude
-      site:           https://www.theclouddude.com
+      site:           http://www.theclouddude.com
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am the cloud dude. I hope you like my blogs!"
       email:          theclouddudeinfo@gmail.com
       twitter:        https://twitter.com/wowthemesnet
  
